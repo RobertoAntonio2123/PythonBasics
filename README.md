@@ -5,13 +5,6 @@ Este repositório é dedicado a projetos básicos de Python, criados com o prop�
 
 ## Projetos
 
-### Hello World
-- **Descrição**: Simples impressão de "Hello, World!".
-- **Métodos**:
-  - Usando `print()`
-  - Escrevendo em um arquivo e lendo de volta
-  - Imprimindo em diferentes formatos (plain text, formatado, etc.)
-
 ### Calculadora de Operações Básicas
 - **Descrição**: Realiza adição, subtração, multiplicação e divisão.
 - **Métodos**:
